@@ -22,7 +22,7 @@ export class CardBoxComponent implements OnInit {
       number: "0000"
     }
   };
-
+ 
 
   ngOnInit(): void {
     this.getAccountData();
